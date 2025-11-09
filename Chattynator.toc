@@ -1,6 +1,6 @@
 ## Interface: 110205, 50502, 40402, 11508
 ## Title: Chattynator
-## Version: 151
+## Version: 152
 ## Author: plusmouse
 ## IconTexture: Interface\AddOns\Chattynator\Assets\Logo.png
 ## SavedVariables: CHATTYNATOR_CONFIG, CHATTYNATOR_MESSAGE_LOG
