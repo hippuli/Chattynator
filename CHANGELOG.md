@@ -1,6 +1,6 @@
 # Chattynator
 
-## [154](https://github.com/TheMouseNest/Chattynator/tree/154) (2025-12-02)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/153...154) 
+## [166](https://github.com/TheMouseNest/Chattynator/tree/166) (2025-12-10)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/165...166) 
 
-- Fix missing libraries  
+- Fix messages not updating while in housing edit mode  
