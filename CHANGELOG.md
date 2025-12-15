@@ -1,6 +1,6 @@
 # Chattynator
 
-## [166](https://github.com/TheMouseNest/Chattynator/tree/166) (2025-12-10)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/165...166) 
+## [171](https://github.com/TheMouseNest/Chattynator/tree/171) (2025-12-13)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/170...171) 
 
-- Fix messages not updating while in housing edit mode  
+- Prevent message duplication caused by previous bugfix  
