@@ -1,6 +1,6 @@
 # Chattynator
 
-## [171](https://github.com/TheMouseNest/Chattynator/tree/171) (2025-12-13)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/170...171) 
+## [175](https://github.com/TheMouseNest/Chattynator/tree/175) (2025-12-17)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/174...175) 
 
-- Prevent message duplication caused by previous bugfix  
+- [Fixes #124] Fix reply hotkey, message fading and error if bar disabled  
