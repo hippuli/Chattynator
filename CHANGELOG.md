@@ -1,6 +1,7 @@
 # Chattynator
 
-## [175](https://github.com/TheMouseNest/Chattynator/tree/175) (2025-12-17)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/174...175) 
+## [178](https://github.com/TheMouseNest/Chattynator/tree/178) (2025-12-18)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/177...178) 
 
-- [Fixes #124] Fix reply hotkey, message fading and error if bar disabled  
+- Slight offset from bottom of the chat frame to avoid clipping "g"  
+- Fade messages toward top of frame  
