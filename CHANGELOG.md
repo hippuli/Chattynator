@@ -1,7 +1,7 @@
 # Chattynator
 
-## [178](https://github.com/TheMouseNest/Chattynator/tree/178) (2025-12-18)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/177...178) 
+## [181](https://github.com/TheMouseNest/Chattynator/tree/181) (2025-12-28)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/180...181) 
 
-- Slight offset from bottom of the chat frame to avoid clipping "g"  
-- Fade messages toward top of frame  
+- Fix potential edge case where messages might prevent full render on login  
+- Fix double printing of some addon's login messages  
