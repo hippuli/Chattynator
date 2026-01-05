@@ -1,7 +1,8 @@
 # Chattynator
 
-## [181](https://github.com/TheMouseNest/Chattynator/tree/181) (2025-12-28)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/180...181) 
+## [182](https://github.com/TheMouseNest/Chattynator/tree/182) (2026-01-04)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/181...182) 
 
-- Fix potential edge case where messages might prevent full render on login  
-- Fix double printing of some addon's login messages  
+- Disable fade at top of frame on Macs (due to rendering issue)  
+- Midnight: Fix tab settings  
+- Fixes for font display  
