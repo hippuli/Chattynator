@@ -1,8 +1,6 @@
 # Chattynator
 
-## [182](https://github.com/TheMouseNest/Chattynator/tree/182) (2026-01-04)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/181...182) 
+## [183](https://github.com/TheMouseNest/Chattynator/tree/183) (2026-01-05)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/182...183) 
 
-- Disable fade at top of frame on Macs (due to rendering issue)  
-- Midnight: Fix tab settings  
-- Fixes for font display  
+- Fix error when disabling timestamp/vertical separator  
