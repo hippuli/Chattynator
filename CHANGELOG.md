@@ -1,6 +1,6 @@
 # Chattynator
 
-## [197](https://github.com/TheMouseNest/Chattynator/tree/197) (2026-03-13)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/196...197) 
+## [200](https://github.com/TheMouseNest/Chattynator/tree/200) (2026-03-22)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/199...200) 
 
-- Add version slash command  
+- Fix error when dragging tabs  
