@@ -1,6 +1,7 @@
 # Chattynator
 
-## [208](https://github.com/TheMouseNest/Chattynator/tree/208) (2026-05-22)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/207...208) 
+## [209](https://github.com/TheMouseNest/Chattynator/tree/209) (2026-05-23)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/208...209) 
 
-- Fix GMOTD appearing even if empty on login  
+- [Fixes #205] Resolve community channel name issues  
+- Customise: Rearrange options to better associate them with the tab names  
