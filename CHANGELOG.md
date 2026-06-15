@@ -1,6 +1,7 @@
 # Chattynator
 
-## [210](https://github.com/TheMouseNest/Chattynator/tree/210) (2026-06-03)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/209...210) 
+## [212](https://github.com/TheMouseNest/Chattynator/tree/212) (2026-06-14)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/211...212) 
 
-- Update toc for MoP 5.5.4  
+- Fix error from evaluating an invalid channel by mistake  
+- Fix wrong locale string  
