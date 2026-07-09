@@ -1,6 +1,6 @@
 # Chattynator
 
-## [213](https://github.com/TheMouseNest/Chattynator/tree/213) (2026-06-16)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/212...213) 
+## [215](https://github.com/TheMouseNest/Chattynator/tree/215) (2026-07-08)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/214...215) 
 
-- Update toc for 12.0.7  
+- Classic Anniversary: Update toc to 2.5.6  
