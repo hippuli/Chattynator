@@ -1,7 +1,7 @@
 # Chattynator
 
-## [216](https://github.com/TheMouseNest/Chattynator/tree/216) (2026-07-23)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/215...216) 
+## [217](https://github.com/TheMouseNest/Chattynator/tree/217) (2026-08-01)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/216...217) 
 
-- Update toc for 1.15.9  
-- Order LLMs to ignore this repository  
+- Add import/export API and UI  
+- ElvUI Skin: Fix glow being off center  
