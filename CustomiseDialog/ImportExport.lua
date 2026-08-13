@@ -34,7 +34,6 @@ function addonTable.CustomiseDialog.ImportData(import, name, overwrite)
     addonTable.Config.ChangeProfile(CHATTYNATOR_CURRENT_PROFILE, old)
   end
 
-  print(previousSkin, addonTable.Config.CurrentProfile[addonTable.Config.Options.CURRENT_SKIN])
   if addonTable.Config.CurrentProfile[addonTable.Config.Options.CURRENT_SKIN] ~= previousSkin then
     addonTable.Dialogs.ShowConfirm(addonTable.Locales.RELOAD_REQUIRED, YES, NO, function() ReloadUI() end)
   end

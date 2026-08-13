@@ -1,7 +1,7 @@
 # Chattynator
 
-## [217](https://github.com/TheMouseNest/Chattynator/tree/217) (2026-08-01)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/216...217) 
+## [219](https://github.com/TheMouseNest/Chattynator/tree/219) (2026-08-12)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/218...219) 
 
-- Add import/export API and UI  
-- ElvUI Skin: Fix glow being off center  
+- Prevent secret error  
+- Fix setting appearing to reset  
