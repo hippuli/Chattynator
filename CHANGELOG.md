@@ -1,7 +1,6 @@
 # Chattynator
 
-## [219](https://github.com/TheMouseNest/Chattynator/tree/219) (2026-08-12)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/218...219) 
+## [221](https://github.com/TheMouseNest/Chattynator/tree/221) (2026-08-14)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/220...221) 
 
-- Prevent secret error  
-- Fix setting appearing to reset  
+- Retail: Fix name on ping messages  
