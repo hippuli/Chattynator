@@ -211,8 +211,6 @@ function addonTable.MessagesMonitorMixin:OnLoad()
   hooksecurefunc(DEFAULT_CHAT_FRAME, "AddMessage", function(_, ...)
     local fullTrace = debugstack()
     if issecretvalue(fullTrace) then
-      self:SetIncomingType({type = "SYSTEM", event = "NONE", source = nil})
-      self:AddMessage(...)
       return
     end
     if fullTrace:find("ChatFrame_OnEvent") or fullTrace:find("Blizzard_Channels") or fullTrace:find("MessageEventHandler") then
