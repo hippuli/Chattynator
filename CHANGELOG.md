@@ -1,7 +1,7 @@
 # Chattynator
 
-## [222](https://github.com/TheMouseNest/Chattynator/tree/222) (2026-08-24)
-[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/221...222) 
+## [223](https://github.com/TheMouseNest/Chattynator/tree/223) (2026-09-06)
+[Full Changelog](https://github.com/TheMouseNest/Chattynator/compare/222...223) 
 
-- Prevent duplicate whispers  
-- Indent additional lines when vertical separator hidden  
+- ElvUI skin improvements  
+- Fix invalidating messages breaking hyperlinks and frame interactivity  

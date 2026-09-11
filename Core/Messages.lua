@@ -339,6 +339,7 @@ function addonTable.MessagesMonitorMixin:InvalidateProcessedMessage(id)
       addonTable.CallbackRegistry:TriggerEvent("ResetOneMessageCache", id)
       if self:GetScript("OnUpdate") == nil and self.playerLoginFired then
         self:SetScript("OnUpdate", function()
+          self:SetScript("OnUpdate", nil)
           addonTable.CallbackRegistry:TriggerEvent("Render")
         end)
       end
@@ -481,6 +482,7 @@ function addonTable.MessagesMonitorMixin:OnEvent(eventName, ...)
 
     if self:GetScript("OnUpdate") == nil then
       self:SetScript("OnUpdate", function()
+        self:SetScript("OnUpdate", nil)
         addonTable.CallbackRegistry:TriggerEvent("Render")
       end)
     end
